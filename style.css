@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+    display: flex;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p.indent {
+    text-indent: 50px;
+}
+
+
+main {
+    position: absolute;
+    
+    top: 50%;
+    left: 25%;
+    right: 25%;
+}
