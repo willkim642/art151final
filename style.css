@@ -13,6 +13,10 @@ p.indent {
     text-indent: 50px;
 }
 
+a {
+    color:white;
+    display: block;
+}
 
 main {
     position: absolute;
